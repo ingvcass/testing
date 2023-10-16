@@ -63,11 +63,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Tahoma", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(30, 27);
+            this.label1.Location = new System.Drawing.Point(44, 23);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(623, 48);
+            this.label1.Size = new System.Drawing.Size(601, 48);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Введите стороны треугольников";
+            this.label1.Text = "Введите стороны треугольника";
             // 
             // start
             // 
